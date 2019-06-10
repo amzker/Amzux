@@ -1,6 +1,6 @@
 
 # Amzux
 
-http://github.com/
+http://github.com/Amzux 
 
 Based on Debian 
